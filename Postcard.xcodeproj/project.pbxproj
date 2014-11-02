@@ -13,6 +13,8 @@
 		7333D1151A03699700D73CDC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7333D1141A03699700D73CDC /* Images.xcassets */; };
 		7333D1181A03699700D73CDC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7333D1161A03699700D73CDC /* LaunchScreen.xib */; };
 		7333D1241A03699700D73CDC /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7333D1231A03699700D73CDC /* PostcardTests.swift */; };
+		7333D1301A0382C900D73CDC /* SagradaFamilia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7333D12F1A0382C900D73CDC /* SagradaFamilia.jpg */; };
+		7333D1321A0384DA00D73CDC /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7333D1311A0384DA00D73CDC /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		7333D11D1A03699700D73CDC /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7333D1221A03699700D73CDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7333D1231A03699700D73CDC /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		7333D12F1A0382C900D73CDC /* SagradaFamilia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpg; sourceTree = "<group>"; };
+		7333D1311A0384DA00D73CDC /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		7333D10B1A03699700D73CDC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7333D1311A0384DA00D73CDC /* AlbertEinsteinStamp.jpg */,
+				7333D12F1A0382C900D73CDC /* SagradaFamilia.jpg */,
 				7333D10C1A03699700D73CDC /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				7333D1131A03699700D73CDC /* Main.storyboard in Resources */,
 				7333D1181A03699700D73CDC /* LaunchScreen.xib in Resources */,
+				7333D1321A0384DA00D73CDC /* AlbertEinsteinStamp.jpg in Resources */,
 				7333D1151A03699700D73CDC /* Images.xcassets in Resources */,
+				7333D1301A0382C900D73CDC /* SagradaFamilia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
